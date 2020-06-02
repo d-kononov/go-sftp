@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/alecthomas/kingpin"
 	"github.com/chzyer/readline"
 	"github.com/google/shlex"
